@@ -16,16 +16,11 @@
     position: fixed;
     background-color: black;
     background-size: cover;
-
-
 }
-
-
-
 
 h1  {
     text-transform: capitalize;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
 
