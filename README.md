@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta http-equiv="Content-Type" content="text/css" charset="UTF-8">
