@@ -20,12 +20,14 @@
 
 h1  {
     text-transform: capitalize;
-    text-align: center;
+    text-align: left;
     font-size: 30px;
+    padding: 10px;
 }
 
 p  {
     text-transform: capitalize;
-    text-align: center;
+    text-align: left;
     font-size: 14px;
+    padding: 10px;
 }
