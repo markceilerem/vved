@@ -1,8 +1,6 @@
 .content {
     text-transform: capitalize;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
-    font-size: calc(1rem + 2vw);
     position: relative ;
     z-index: 2;
 
