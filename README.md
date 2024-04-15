@@ -11,8 +11,9 @@
   <div class="bg"></div>
   <div class="content">
      <p1> Введение в Нейромедиаторную Гормональную Теорию</p1></div>
-      <div class="content_button">
-      <a class="link" href="#top"><button type="button" class="btn" > Перейти к прочтению</button></div>
+       <div class="content_button">
+          <a class="link" href="#top"><button type="button" class="btn" > Перейти к прочтению</button>
+          </a>></div>
 
 
 <div class="content">
