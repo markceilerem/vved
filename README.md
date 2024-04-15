@@ -13,7 +13,7 @@
      <p1> Введение в Нейромедиаторную Гормональную Теорию</p1></div>
        <div class="content_button">
           <button type="button" class="btn" > Проведи вверх</button>
-          </a></div>
+          </div>
 
 
 <div class="content">
