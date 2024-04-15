@@ -1,7 +1,7 @@
 .content {
     text-transform: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: relative ;
+    position: sticky ;
     z-index: 2;
     color: black;
 }
