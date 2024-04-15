@@ -32,11 +32,11 @@ p1  {
 
     background-image: url("str.png");
     width: 50px;
-    height: 100px;
+    height: 200px;
     display: block;
     margin: 0 auto;
     background-size: 50px;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
 }
 p2  {
