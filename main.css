@@ -21,12 +21,7 @@
     bottom: 0;
     background-color: white;
     background-size: cover;
-
-
 }
-
-
-
 
 h1  {
     text-transform: none;
@@ -42,7 +37,7 @@ h1  {
     display: block;
     margin: 0 auto;
     background-size: 50px;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-position: top;
 
