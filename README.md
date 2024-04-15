@@ -10,8 +10,7 @@
   <div class="bg"></div>
   <div class="content">
      <p1> Введение в Нейромедиаторную Гормональную Теорию</p1>
-
-      <div class="image-container" ></div>
+     <div class="image-container" ></div>
 <div class="content">
      <p> <strong>Концепция личной ответственности</strong> воспринимается как что-то карательное, тяжелое, может быть рабское./n Так сложилось что само значение слова ответственность несет в русском языке максимально негативный смысл. Ответственность это что-то на принудительном.
 
@@ -54,3 +53,11 @@
 </body>
 </html>
 
+<style>
+	body {
+		-ms-user-select: none;
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		user-select: none;
+	}
+</style>
