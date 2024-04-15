@@ -1,4 +1,14 @@
+.square {
+    position: relative;
+    z-index: 2;
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.2);
+    display: block;
 
+}
 .h1 {
     text-transform: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -8,7 +18,7 @@
 
 .content {
     text-transform: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
     position: sticky ;
     z-index: 3;
 }
@@ -28,7 +38,6 @@
     position: sticky ;
     z-index: 3;
     height: 100px;
-
     margin: 0 auto;
 }
 
@@ -61,20 +70,12 @@
     height: 50px;
     width: 200px;
     border: none;
-    margin-top: 130px;
+    margin-top: 20px;
 
 }
 
 
-p1 {
-    text-transform: none;
-    text-align: start;
-    font-size: 37px;
-    margin: 0;
-    font-weight: 700;
-    color: white;
-    position: sticky;
-}
+
 
 
 .image-container{
@@ -88,6 +89,19 @@ p1 {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+h1 {
+    margin-left: 15px;
+    margin-right: 15px;
+    text-transform: none;
+    text-align: start;
+    font-size: 25px;
+    text-decoration: none;
+
+    font-weight: 600;
+    color: white;
+    position: sticky;
+}
 p  {
     text-decoration: none;
     text-transform: none;
@@ -97,14 +111,15 @@ p  {
     margin-left: 15px;
     margin-right: 15px;
     color: white;
+    position: sticky;
 
-}
-
-a, u {
-  text-decoration: none;
 }
 
 .link {
+  text-decoration: none;
+}
+
+a, u {
   text-decoration: none;
 }
 
