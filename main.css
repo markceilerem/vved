@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 .square {
     position: relative;
     z-index: 2;
@@ -93,16 +96,20 @@
 h1 {
     margin-left: 15px;
     margin-right: 15px;
+    margin-top:0;
     text-transform: none;
     text-align: center;
-    font-size: 25px;
+    font-size: calc(24px + 16 * (100vw / 1280));
     text-decoration: none;
+    line-height: 29px;
+    display: block;
 
     font-weight: 600;
     color: white;
     position: sticky;
 }
 p  {
+    display: block;
     text-decoration: none;
     text-transform: none;
     text-align: start;
@@ -119,6 +126,9 @@ p  {
   text-decoration: none;
 }
 
+a, u {
+  text-decoration: none;
+}
 a, u {
   text-decoration: none;
 }
