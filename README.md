@@ -1,5 +1,6 @@
 <html lang="ru">
 <head>
+    <title>Введение в НГТ</title>
     <meta http-equiv="Content-Type" content="text/css" charset="UTF-8">
     <link rel="stylesheet" href = "main.css">
 </head>
