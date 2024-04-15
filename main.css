@@ -42,9 +42,11 @@ h1  {
     width: 50px;
     height: 50px;
     display: block;
+    margin: 0 auto;
     background-size: 50px;
     background-position: center;
     background-repeat: no-repeat;
+    background-position: top;
 
 }
 p  {
