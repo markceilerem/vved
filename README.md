@@ -9,7 +9,7 @@
 <body>
   <div class="bg"></div>
   <div class="h1">
-     <> Введение в Нейромедиаторную Гормональную Теорию</p>
+     <p> Введение в Нейромедиаторную Гормональную Теорию</p>
     <div class="image-container"></div>
       
 <div class="content">
